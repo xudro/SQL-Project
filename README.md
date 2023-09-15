@@ -1,9 +1,9 @@
 # SQL-Project
 
-Project Description
+# # Project Description
 The domain that we’re going to model is video games. We will focus on video game information
 from a marketing perspective and sales data.
-Database Specification
+# # Database Specification
 This database will focus on games, including ratings, awards, sales data, and other general
 information about games. There will be purchase records of each game that highlights the
 original price and discount rate, and game characteristics stored in the database. Such data will
